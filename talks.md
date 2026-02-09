@@ -18,7 +18,8 @@ layout: default
   Chalk talk: *Running Microsoft Workloads on AWS*
 
 - **AWS Whitepaper Contributions**  
-  [Practicing Continuous Integration and Continuous Delivery on AWS](https://docs.aws.amazon.com/pdfs/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.pdf) 
+  [Practicing Continuous Integration and Continuous Delivery on AWS](https://docs.aws.amazon.com/pdfs/whitepapers/latest/practicing-continuous-integration-continuous-delivery/practicing-continuous-integration-continuous-delivery.pdf)  
+
   [AWS Cloud Adoption Framework (CAF) – Business Perspective](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-caf-business-perspective/aws-caf-business-perspective.pdf)
 
 - **AWS Blog Author**  
